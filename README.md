@@ -57,7 +57,7 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-#integrate sequelize
+## integrate sequelize
 $ npm run db_dev62
 ## Support
 
